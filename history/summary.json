@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 283,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
-    "dailyMinutesDown": {}
+    "time": 320,
+    "timeDay": 212,
+    "timeWeek": 320,
+    "timeMonth": 320,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   },
   {
     "name": "GitCDN",
