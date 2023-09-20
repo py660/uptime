@@ -58,19 +58,19 @@
     "url": "https://gitcdn.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/gitcdn.repl.co.ico",
     "slug": "git-cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 3212,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 666,
+    "timeDay": 1748,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2023-09-20": 0
+      "2023-09-20": 8
     }
   }
 ]
