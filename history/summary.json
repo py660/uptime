@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 76,
-    "timeWeek": 84,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 88,
+    "timeDay": 100,
+    "timeWeek": 89,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 432,
-    "timeWeek": 259,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 270,
+    "timeDay": 628,
+    "timeWeek": 323,
+    "timeMonth": 270,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 418,
-    "timeWeek": 323,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 299,
+    "timeDay": 150,
+    "timeWeek": 291,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "https://gitcdn.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/gitcdn.repl.co.ico",
     "slug": "git-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 226,
-    "timeWeek": 656,
-    "timeMonth": 594,
-    "timeYear": 594,
-    "dailyMinutesDown": {}
+    "time": 1011,
+    "timeDay": 5179,
+    "timeWeek": 1253,
+    "timeMonth": 1011,
+    "timeYear": 1011,
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   }
 ]
