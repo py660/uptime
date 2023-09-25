@@ -58,7 +58,7 @@
     "url": "https://gitcdn.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/gitcdn.repl.co.ico",
     "slug": "git-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1181,
     "timeMonth": 867,
     "timeYear": 867,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   }
 ]
